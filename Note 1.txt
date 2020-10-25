@@ -48,7 +48,7 @@ This is [an example] [id] reference-style link.
 [id]: http://example.com/ 'Optional Title Here'
 
 This is an image:
-![](https://www.wefillgood.com/images/Products_Services/ps_igm_garden.jpg)
+![](https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-large-tease.jpg)
 ###### Header 6
 
 XML sample:
